@@ -1,4 +1,4 @@
-# All-in-one-socail-tools  极客学院是中国最大的 IT 职业在线教育平台。[[Chinese version]](#cn)
+# All-in-one-socail-tools  [[Chinese version]](#cn)
 Social marketing tool collection recommendation, sorting and many very useful social tools, WhatsApp, Telegram, Instagram, LinkedIn, Facebook, TIKTOK, EMAIL EXTRACT
 
 ## 1 Whatsapp Chatgpt AI Auto Reply Pro-Full Reseller
@@ -157,8 +157,8 @@ No login or password are required
 
 
 
-
-#cn 2 Chinese description
+[中文版]<a name="footnode"></a>
+# 2 Chinese description
 # 所有社会化营销工具 #外贸营销获客工具
 社会化营销工具合集推荐，整理和很多非常有用的社会化工具，whatsapp,telegram,instagram,linkedin,facebook,tiktok,email extract
 
