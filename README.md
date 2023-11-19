@@ -171,26 +171,30 @@ Telegram Marketing Pro是一个功能强大的Telegram营销工具，允许您�
 https://codecanyon.net/item/telegram-marketing-scraper-and-invite-bulk-sender/39700283
 
 3.Turbo电报营销工具专业版
-电报营销工具包含所有常见的电报功能，以帮助您简化您的工作和扩大您的市场。包含常用的批量消息，批量刮刮成员，批量加入组，批量邀请和更多!我们的工具非常容易使用，即使没有文档，您也可以在5分钟内学习如何使用!
+电报营销工具包含所有常见的电报功能，以帮助您简化您的工作和扩大您的市场。包含常用的批量消息，批量刮刮成员，批量加入组，批量邀请和更多!我们的工具非常容易使用，即使没有文档，您也可以在5分钟内学习如何使用!  
+
 https://codecanyon.net/item/telegram-auto-reply-message/40441095
 
-4.电报群组自动转发工具
-https://codecanyon.net/item/telegram-auto-groupchannel-forward-message/40473271
+4.电报群组自动转发工具  
+
+https://codecanyon.net/item/telegram-auto-groupchannel-forward-message/40473271  
 
 5.电报营销工具批量邀请发送专业版
 Telegram Marketing Pro是一个全面的工具，为企业和营销人员寻求最大限度地提高他们在Telegram上的影响力。
 它允许您一次轻松登录多个帐户，导入联系人列表，批量从组和频道中提取成员，并发送批量邀请加入您的组。
 使用Telegram Marketing Pro，您可以快速轻松地管理您的Telegram帐户，联系人和渠道，并最大限度地提高您的营销活动的范围
-使用Telegram Marketing Pro，您可以轻松地自定义消息设置。(粗体，斜体，下划线等)MarkdownV2样式
+使用Telegram Marketing Pro，您可以轻松地自定义消息设置。(粗体，斜体，下划线等)MarkdownV2样式  
+
 
 https://codecanyon.net/item/telegram-marketer-tools-6/33837496
 
 6.电报多账号多线程超速批量邀请专业版
 支持多个账号同时工作!(最多100个帐户)
 ✅支持一键登录所有账户(最多100个账户)
-✅支持登录与proxy内置30-100免费代理
+✅支持登录与proxy内置30-100免费代理  
 
-https://codecanyon.net/item/tgsender-contactgroup-sender/37945922
+
+https://codecanyon.net/item/tgsender-contactgroup-sender/37945922  
 
 
 whatsapp营销工具合集
@@ -198,17 +202,20 @@ whatsapp营销工具合集
 1.whatsapp批量发送自动回复专业版+转售权限
 KeyGen App-Full Reseller是一个强大的工具，允许您发送批量消息给您的联系人，加入组，并从组中提取成员，自动回复消息等。它有一系列的功能，使它易于使用和管理您的联系人和消息。
 同时，它包含完整的源代码，包括keygen应用程序，你将获得完整的转售权，你可以无限制地出售给任何客户。
-多种语言(30种语言)支持:英语，العربية，az / rbaycan，波斯斯基语，意大利语，丹斯克语，德语，法语，Português,Español，尤斯卡拉语，印尼语，马来语，菲律宾语，latviešu，列图维萨语，马扎尔语，荷兰语，挪威语，o - z - zbekcha,Tiếng Việt，हिन्दी,ខ្មែរ,简体中文,繁體中文
+多种语言(30种语言)支持:英语，العربية，az / rbaycan，波斯斯基语，意大利语，丹斯克语，德语，法语，Português,Español，尤斯卡拉语，印尼语，马来语，菲律宾语，latviešu，列图维萨语，马扎尔语，荷兰语，挪威语，o - z - zbekcha,Tiếng Việt，हिन्दी,ខ្មែរ,简体中文,繁體中文   
+
 https://codecanyon.net/item/whatsapp-bulk-sender-tools/34125850
 
 2.Rocket whatsapp营销工具专业版
 Rocket WhatsApp Market Pro是WhatsApp的强大营销和自动化工具。它允许您创建消息，批量发送消息给您的目标受众在几个简单的步骤。与Rocket WhatsApp Market Pro，您可以轻松地发送批量消息，并批量过滤联系。它还提供高级功能，如组发送，组提取，这将帮助您最大限度地提高您的覆盖面，增加您的销售和线索。
-您可以通过Rocket WhatsApp Market Pro轻松定制消息，您可以发送文本，图片，视频，文件等。
+您可以通过Rocket WhatsApp Market Pro轻松定制消息，您可以发送文本，图片，视频，文件等。  
+
 https://codecanyon.net/item/wasender-whatsapp-bulk-sender-group-sender/36924764
 
 3.whatsapp 超级验证专业版
 Whatsapp超级快速过滤器专业是一个强大的工具，企业和组织需要跟踪他们的联系人。该功能允许企业快速轻松地过滤出大量联系人列表，从而节省时间和资源。它提供了各种各样的过滤器，可以用来清除与业务无关的联系人。此功能可用于过滤掉不需要的联系人，例如来自竞争对手的联系人，或针对符合特定标准的特定联系人。
-✅Whatsapp超级快速过滤器专业可以帮助您快速过滤超过100,000个数字每小时!
+✅Whatsapp超级快速过滤器专业可以帮助您快速过滤超过100,000个数字每小时!   
+
 https://codecanyon.net/item/whatsapp-super-fast-filter-pro/40995521
 
 4.whatsapp多账号预热专业版+转售
@@ -216,11 +223,13 @@ https://codecanyon.net/item/whatsapp-super-fast-filter-pro/40995521
 ✅轻松让您登录到多个whatsapp帐户在同一时间!
 ✅自动预热您的所有whatsapp帐户
 ✅您可以添加无限whatsapp帐户!
-multiple languages (English,العربية,Português,Español,Italiano,Bahasa Indonesia,Bahasa Melayu,Deutsch (Deutschland),Français,हिन्दी,فارسی,Tiếng Việt,Türkçe,简体中文)
+multiple languages (English,العربية,Português,Español,Italiano,Bahasa Indonesia,Bahasa Melayu,Deutsch (Deutschland),Français,हिन्दी,فارسی,Tiếng Việt,Türkçe,简体中文)   
+
 https://codecanyon.net/item/whatsapp-multiple-accounts-manage-pro/41214814
 
 5.whatsapp批量发送+批量验证专业版
-WhatsApp电话号码Super Filter & Validator & Sender Pro旨在帮助您过滤，验证和发送WhatsApp电话号码。它可以让你快速过滤掉无效号码，验证它们，然后向它们发送WhatsApp消息。这是一个强大的工具，可以帮助你扩大覆盖面和客户群。它还可以帮助您跟踪您的客户群，并确保您的信息准确及时地传递。
+WhatsApp电话号码Super Filter & Validator & Sender Pro旨在帮助您过滤，验证和发送WhatsApp电话号码。它可以让你快速过滤掉无效号码，验证它们，然后向它们发送WhatsApp消息。这是一个强大的工具，可以帮助你扩大覆盖面和客户群。它还可以帮助您跟踪您的客户群，并确保您的信息准确及时地传递。   
+
 https://codecanyon.net/item/whatsapp-super-fast-validator-pro-101/41960618
 
 6.whatsapp群组抽取+批量号码验证专业版
@@ -229,7 +238,8 @@ https://codecanyon.net/item/whatsapp-super-fast-validator-pro-101/41960618
 ✅我们的工具可以帮助您批量生成世界上任何国家的电话号码
 ✅快速过滤3000个电话号码，只需5-10秒
 ✅支持为Validator|Filter导入您自己的电话号码列表
-✅内置账户保护机制，快速验证并保护您的账户不被whatsapp意外屏蔽
+✅内置账户保护机制，快速验证并保护您的账户不被whatsapp意外屏蔽   
+
 https://codecanyon.net/item/whatsapp-fast-group-extract-pro-101/41997926
 
 7.whatsapp批量邀请工具专业版
@@ -238,13 +248,15 @@ WhatsApp联系人|Group Bulk Invite Pro是一款专业的WhatsApp联系人批量
 ✅我们的工具让您快速获得所有您的组!
 ✅我们的工具让您快速邀请成员到您的whatsapp组!
 ✅快速批量邀请组成员，每500个电话号码在短短10分钟
-✅内置账户保护机制，快速验证并保护您的账户不被whatsapp意外屏蔽
+✅内置账户保护机制，快速验证并保护您的账户不被whatsapp意外屏蔽   
+
 https://codecanyon.net/item/whatsapp-group-bulk-invite-pro-101/42026674
 
 8.whatsapp chatgpt AI自动聊天自动回复专业版+转售
 Whatsapp AI chatgpt Auto Reply Pro是为企业设计的自动聊天机器人，用于回答客户查询并提供有用的支持。它适用于你当前的whatsapp实时聊天，让他们专注于更复杂的任务，如销售、营销和客户服务。它立即为客户最常见的问题提供快速而准确的答案。
 同时，它可以自动回复任何语言。
-多语言支持:英语,العربية,azərbaycan, bosanski,意大利语,丹麦语,德语,法语,葡萄牙,西班牙语、巴斯克语,印度尼西亚语,马来语,菲律宾,latviešu, lietuvių,匈牙利语,荷兰语,挪威语,עברית,اردو,فارسی,አማርኛ,नेपाली,मराठी,বাংলা,oʻzbekcha, Tiếng Việt, urkce,ગુજરાતી,தமிழ்,తెలుగు,ಕನ್ನಡ,മലയാളം,සිංහල,ไทย,ລາວ,ဗမာ,हिन्दी,ខ្មែរ,한국어,日本語,简体中文,繁體中文
+多语言支持:英语,العربية,azərbaycan, bosanski,意大利语,丹麦语,德语,法语,葡萄牙,西班牙语、巴斯克语,印度尼西亚语,马来语,菲律宾,latviešu, lietuvių,匈牙利语,荷兰语,挪威语,עברית,اردو,فارسی,አማርኛ,नेपाली,मराठी,বাংলা,oʻzbekcha, Tiếng Việt, urkce,ગુજરાતી,தமிழ்,తెలుగు,ಕನ್ನಡ,മലയാളം,සිංහල,ไทย,ລາວ,ဗမာ,हिन्दी,ខ្មែរ,한국어,日本語,简体中文,繁體中文  
+
 https://codecanyon.net/item/whatsapp-chatgpt-ai-auto-reply-profull-reseller/46964349
 
 9.多whatsapp账号批量发送专业版+完全转售
@@ -254,17 +266,19 @@ https://codecanyon.net/item/whatsapp-chatgpt-ai-auto-reply-profull-reseller/4696
 Like:{Hello|Hi there|Greetings}, {my|our|your} {dear|beloved|esteemed} {readers|viewers|visitors}, {I’m|We’re|You’re} {so|really} {glad|happy|thrilled} to {welcome|welcoming} you to {this|our}
 3️支持同时发送多个附件(图片、文件、视频)
 4️支持暂停和恢复发送任务
-5️多语言(英语，العربية，Português,Español，意大利语，印尼语，马来语，德语(德语)，法语，हिन्दी，فارسی，Tiếng Việt， <s:1> rk<e:1>，中文)
+5️多语言(英语，العربية，Português,Español，意大利语，印尼语，马来语，德语(德语)，法语，हिन्दी，فارسی，Tiếng Việt， <s:1> rk<e:1>，中文)   
+
 https://codecanyon.net/item/multi-whatsapp-accounts-bulk-senderfull-reseller/48073363
 
 社会化邮件提取工具
 1.社会化营销数据提取专业版
 Social Network Data Scraper Pro对于想要快速轻松地从社交网络中抓取数据的企业来说是一个很好的选择。它提供了多种功能，使从社交网络中抓取数据变得简单高效，比如一次从多个网络中提取数据的能力。此外，它还可以用来收集个人资料中的电子邮件和电话号码，以及其他重要信息，如whatsapp联系人等。
-使用社交网络数据刮板Pro是一种快速，轻松地从社交媒体收集电子邮件和电话号码的好方法。它可以帮助你接触潜在客户，建立关系，更有效地定位你的营销活动。因此，如果你正在寻找一种有效的方式从社交媒体收集数据，那么social Network data Scraper Pro绝对值得考虑。
+使用社交网络数据刮板Pro是一种快速，轻松地从社交媒体收集电子邮件和电话号码的好方法。它可以帮助你接触潜在客户，建立关系，更有效地定位你的营销活动。因此，如果你正在寻找一种有效的方式从社交媒体收集数据，那么social Network data Scraper Pro绝对值得考虑。  
+
 https://codecanyon.net/item/social-network-data-scraper-pro/34467442
 
 2.电子邮件|电话|提取器专业版
-电子邮件|电话|任何批量刮取&提取专业是一个强大的工具，刮电子邮件，电话，和其他数据从网页。它可以快速准确地从任何网站提取数据，包括联系信息，产品详细信息，列表，图像等。该工具旨在通过自动化数据提取过程来节省时间和金钱。它具有强大，快速和直观的界面，使其易于使用和理解。它也非常安全，使用安全套接字层(SSL)技术加密数据。对于需要快速准确地从网络上抓取大量数据的企业来说，这个工具是完美的。
+电子邮件|电话|任何批量刮取&提取专业是一个强大的工具，刮电子邮件，电话，和其他数据从网页。它可以快速准确地从任何网站提取数据，包括联系信息，产品详细信息，列表，图像等。该工具旨在通过自动化数据提取过程来节省时间和金钱。它具有强大，快速和直观的界面，使其易于使用和理解。它也非常安全，使用安全套接字层(SSL)技术加密数据。对于需要快速准确地从网络上抓取大量数据的企业来说，这个工具是完美的。   
 https://codecanyon.net/item/email-bulk-searchextractadd-tools/35506368
 
 
