@@ -156,8 +156,7 @@ No login or password are required
 
 
 
-
-[中文版]<a name="footnode"></a>
+[Chinese version]<a name="cn"></a>
 # 2 Chinese description
 # 所有社会化营销工具 #外贸营销获客工具
 社会化营销工具合集推荐，整理和很多非常有用的社会化工具，whatsapp,telegram,instagram,linkedin,facebook,tiktok,email extract
